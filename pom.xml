@@ -37,9 +37,9 @@
 								
 								<muleVersion>4.4.0</muleVersion>
 								
-								<username>Janasena</username>
+								<username>${username}</username>
 								
-								<password>Siva@193654</password>
+								<password>${password}</password>
 								
 								<applicationName>cicdproject</applicationName>
 								
